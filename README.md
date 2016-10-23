@@ -1,0 +1,1 @@
+# hive-jdbc-all-in-one-jar
